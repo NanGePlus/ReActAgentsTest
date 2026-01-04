@@ -1,5 +1,18 @@
-# LangGraph ReAct Agents         
-相关视频合集整理:                        
+# AI Agents 智能体项目  
+
+此仓库存储我在YouTube频道和B站频道关于AI Agent相关分享，所有资源全部开源免费                             
+此仓库对应的GitHub地址: https://github.com/NanGePlus/ReActAgentsTest                          
+此仓库对应的Gitee地址: https://gitee.com/NanGePlus/ReActAgentsTest                                   
+
+### 个人信息
+
+1. YouTube频道(南哥AGI研习社)：https://www.youtube.com/channel/UChKJGiX5ddrIpJG-rBNVZ5g                                            
+2. B站频道(南哥AGI研习社)：https://space.bilibili.com/509246474                      
+3. GitHub地址：https://github.com/NanGePlus                    
+4. Gitee地址：https://gitee.com/NanGePlus                                 
+5. 大模型代理平台: https://nangeai.top/             
+      
+## Agent应用案例合集:                        
 【硬核教程】LangGraph+ReAct Agent实战：手把手教你玩转高德地图MCP Server全流程！细节拉满，干货满满，小白也能懂！                
 https://youtu.be/rYpCU1cDvvc                                  
 https://www.bilibili.com/video/BV1V7EfzDERy/            
@@ -30,9 +43,8 @@ https://youtu.be/UZuqBkD9dPc
 https://www.bilibili.com/video/BV1Wb38zNEnx/                  
 对应文件夹:06_ReActAgentHILApiMultiSessionTaskTest                 
 
-# 南哥AGI研习社-入门系列（已完结）  
-## 大模型应用技术开发          
-相关视频合集整理:              
+## 大模型应用基础         
+
 【大模型应用开发-入门系列】01 一次梳理大模型入门学习路径                 
 https://youtu.be/RKYKr3BABhc                 
 https://www.bilibili.com/video/BV1YMfuYvEUQ/                     
