@@ -1,0 +1,38 @@
+# Docker Compose 配置文件，用于启动 Redis 服务
+# 该配置为 FastAPI 应用提供 Redis 后端，支持分布式会话管理
+version: '3.8'
+
+services:
+  redis:
+    # 使用官方 Redis 镜像
+    image: redis:latest
+    # 服务名称
+    container_name: redis
+    # 映射 Redis 默认端口到主机
+    ports:
+      - "6379:6379"
+    # 持久化存储配置（可选）
+    volumes:
+      - redis-data:/data
+    # 确保容器在重启时自动启动
+    restart: unless-stopped
+    # 健康检查：验证 Redis 服务是否正常运行
+    healthcheck:
+      test: ["CMD", "redis-cli", "ping"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+    # 网络配置
+    networks:
+      - app-network
+
+# 定义持久化存储卷
+volumes:
+  redis-data:
+    name: redis-data
+
+# 定义网络
+networks:
+  app-network:
+    driver: bridge
