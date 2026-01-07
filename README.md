@@ -41,7 +41,11 @@ https://www.bilibili.com/video/BV1tuNXzREmc/
 6. 【高并发异步调用】从零构建生产级AI Agent服务:历史会话管理和恢复、历史记忆管理、高并发异步调用、任务管理和恢复API后端接口服务(含完整前端demo)          
 https://youtu.be/UZuqBkD9dPc              
 https://www.bilibili.com/video/BV1Wb38zNEnx/                  
-对应文件夹:06_ReActAgentHILApiMultiSessionTaskTest                 
+对应文件夹:06_ReActAgentHILApiMultiSessionTaskTest
+
+7. 别再看过时的教程了！2026基于全新LangChain V1.x+LangGraph V1.x + FastAPI框架实现的可复制的Agent整套闭环解决方案             
+https://youtu.be/v_uQcfbqyvo                  
+对应文件夹:07_RefundApprovalAgent               
 
 ## 大模型应用基础         
 
