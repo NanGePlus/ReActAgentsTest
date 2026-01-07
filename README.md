@@ -44,10 +44,14 @@ https://www.bilibili.com/video/BV1Wb38zNEnx/
 对应文件夹:06_ReActAgentHILApiMultiSessionTaskTest
 
 7. 别再看过时的教程了！2026基于全新LangChain V1.x+LangGraph V1.x + FastAPI框架实现的可复制的Agent整套闭环解决方案
-(1)电商退款审核Agent演示系统核心功能介绍及系统演示视频          
-https://youtu.be/v_uQcfbqyvo                 
-https://www.bilibili.com/video/BV1xTqTBHEwq/                   
-对应文件夹:07_RefundApprovalAgent                
+(1)电商退款审核Agent演示系统核心功能介绍及系统演示视频           
+https://youtu.be/v_uQcfbqyvo                   
+https://www.bilibili.com/video/BV1xTqTBHEwq/                  
+对应文件夹:07_RefundApprovalAgent                      
+(2)【详细拆解测试】2026基于全新LangChain V1.x+LangGraph V1.x + FastAPI框架实现的可复制的Agent整套闭环解决方案                  
+https://youtu.be/8zt0dwvdl2k                  
+https://www.bilibili.com/video/BV14NqTBXEKb/             
+对应文件夹:07_RefundApprovalAgent                  
 
 ## 大模型应用基础         
 
